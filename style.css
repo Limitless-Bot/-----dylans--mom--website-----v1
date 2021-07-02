@@ -143,6 +143,9 @@ p{
     padding: 10px;
 }
 
+
+
+
 .row{
     margin-top: 5%;
     display: flex;
@@ -166,6 +169,7 @@ h3{
 .invite-col:hover{
     box-shadow: 0 0 20px 0px rgba(0,0,0,0.2);
 }
+
 @media(max-width: 700px){
     .row{
         flex-direction: column;
