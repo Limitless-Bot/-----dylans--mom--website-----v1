@@ -124,6 +124,30 @@ nav .fa{
     
 }
 
+/*------FOOTER------*/
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: #2c5ba7;
+    color: rgb(202, 0, 0);
+  }
+
+h4{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-weight: 300;
+    margin: 10px 0;
+}
+
+p2{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-weight: 200;
+    margin: 10px 0;
+}
+
+
 /*---------INVITE--------*/
 .invite{
     width: 80%;
@@ -136,7 +160,7 @@ hl{
     font-weight: 600;
 }
 p{
-    color: #777;
+    color: rgb(72, 178, 248);
     font-size: 14px;
     font-weight: 300;
     line-height: 22px;
@@ -154,7 +178,7 @@ p{
 
 .invite-col{
     flex-basis: 31%;
-    background: #fff3f3;
+    background: #2c5ba7;
     border-radius: 10px;
     margin-bottom: 5%;
     padding: 20px 12px;
@@ -162,6 +186,7 @@ p{
     transition: 0.5s;
 }
 h3{
+    color: rgb(225, 228, 231);
     text-align: center;
     font-weight: 600;
     margin: 10px 0;
